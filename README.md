@@ -54,14 +54,15 @@ A web-based EV Charging Assistance Platform that helps Electric Vehicle (EV) use
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomika-modagi&show_icons=true&theme=github_dark&cache_seconds=1800" alt="GitHub Stats" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhoomika-modagi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika-modagi&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika-modagi&layout=compact&theme=github_dark&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
@@ -69,9 +70,7 @@ A web-based EV Charging Assistance Platform that helps Electric Vehicle (EV) use
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=bhoomika-modagi&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=bhoomika-modagi&theme=github-dark" alt="GitHub Streak" />
 </p>
 
 ---
