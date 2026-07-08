@@ -58,11 +58,11 @@ A web-based EV Charging Assistance Platform that helps Electric Vehicle (EV) use
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=bhoomika-modagi&show_icons=true alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomika-modagi&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika-modagi&layout=compact alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika-modagi&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
